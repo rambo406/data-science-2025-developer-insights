@@ -30,6 +30,7 @@ The tech industry evolves rapidly. Understanding what drives developer salaries,
 | `data/survey_result_2025.csv` | Stack Overflow 2025 Developer Survey responses |
 | `data/survey_result_2024.csv` | Stack Overflow 2024 Developer Survey responses (reference) |
 | `blog_post.md` | Medium-style blog post summarizing key findings |
+| `charts/` | Saved chart images (salary distribution, feature importances, etc.) |
 | `README.md` | This file |
 
 ## Summary of Results
